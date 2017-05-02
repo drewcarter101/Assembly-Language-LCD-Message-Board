@@ -8,7 +8,7 @@ Atmega 2560
 
 Aurduino Circuit Board
 
-## Code Breakdown
+## Repo Breakdown and description
 
 The first code in this repo is the C code that displays two messages simultaneously, the code displays the messages, shifts their positions a bit and then displays them again in reversed and continues the cycle for a while.
 
