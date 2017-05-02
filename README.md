@@ -3,7 +3,9 @@
 ## Technical Information
 
 All code written using AVR Studio 4
+
 Atmega 2560
+
 Aurduino Circuit Board
 
 ## Code Breakdown
